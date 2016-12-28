@@ -1,0 +1,72 @@
+.text {
+    height: 20px;
+    font-family: Futura sans-serif;
+    font-size: 16pt;
+}
+
+body {
+    background-color: #4ABDAC;
+    color: #595959;
+}
+
+.error {
+    color: #FC4A1A;
+    font-size: 14pt;
+    margin-top: 2px;
+}
+
+.error p {
+    margin-top: 0;
+}
+
+form {
+    font-size: 16pt;
+
+}
+
+form div {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+h1 {
+    font-size: 28pt;
+    text-decoration: underline;
+}
+
+#main-content {
+    background-color: #DFDCE3;
+    border:5px grey solid;
+    margin: auto;
+    text-align: center;
+    width: 40%;
+}
+
+#percentage label {
+    margin: 1em;
+    text-align: center;
+}
+
+#percentage input {
+    margin-top: 20px;
+}
+
+#result {
+    border: 2px solid grey;
+    font-size: 16pt;
+    margin-top: 1em;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-bottom: 1em;
+    padding-left: 2em;
+    text-align: left;
+}
+
+#result span {
+    font-weight: bold;
+}
+
+
+#submit {
+    text-align: center;
+}
